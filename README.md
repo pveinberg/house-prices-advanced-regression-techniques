@@ -5,3 +5,6 @@
 
 ## Linear regression working with all columns
 [code](scripts/02-house-prices-advanced-update-filename.ipynb)
+
+## Linear regression with all columns and filling missing values
+[code](scripts/03-house-prices-advanced-filling-missing-data.ipynb)
